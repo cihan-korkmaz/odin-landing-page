@@ -1,0 +1,1 @@
+This project is about Odin landing page exercies.

@@ -9,10 +9,12 @@ ul {
     list-style: none;
     display: flex;
     gap: 20px;
+    
 }
 
 a {
     color: white;
+    text-decoration: none;
 
 }
 
@@ -30,4 +32,45 @@ a {
 .header-links {
     font-size: 20px;
     
+}
+.header-bottom {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info-title {
+    font-size: 50px;
+    font-weight: bold;
+    width: 400px;
+    margin: 10px;
+}
+
+.info-text {
+    width: 450px;
+    font-size: 20px;
+}
+
+.info-button {
+    display: flex;
+    background-color: #6495ED;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;;
+}
+
+.header-bottom-img {
+    text-align: center;
+    vertical-align: center;
+    background-color: 	#808080;
+    width: 400px;
 }

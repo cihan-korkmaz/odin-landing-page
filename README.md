@@ -1,1 +1,1 @@
-This project is about Odin landing page exercies.
+This project is about Odin landing page exercises.

@@ -144,3 +144,34 @@ a {
     justify-content: flex-end;
     width: 700px;
 }
+
+.base-3 {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 200px;
+    padding: 50px;
+    color: white;
+    border-radius: 10px;
+}
+.base-3-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.base-3-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.base-3-text {
+    font-size: 20px;
+}
+
+.base-3-button {
+    font-size: 24px;
+    border: 2px solid white;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
